@@ -90,3 +90,13 @@ Thumbs.db
 *.swp
 *.bak
 *.tmp 
+
+# My new added lines
+
+.env
+dataset/raw/
+outputs/
+result/*/details/
+*.parquet
+__pycache__/
+.cache/
